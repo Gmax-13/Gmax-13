@@ -91,7 +91,7 @@ interests:
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution
 
 <p align="center">
   <picture>
